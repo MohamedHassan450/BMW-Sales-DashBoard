@@ -5,7 +5,7 @@ Interactive dashboard analyzing the **BMW Used Car Market** across different mod
 Provides insights into sales trends, most sold models, transmission preferences, fuel types, and pricing distributions.
 
 ---
-![WhatsApp Image 2025-11-25 at 15 42 24_c075cfc1](https://github.com/user-attachments/assets/80934aec-bae7-4ece-8fce-f96b44aacc6b)
+<img width="1312" height="732" alt="Screenshot 2025-12-09 075750" src="https://github.com/user-attachments/assets/2dc70de6-4e82-490c-8b8d-3b3910eed4cd" />
 ---
 
 ## 🛠️ Tools & Technologies
